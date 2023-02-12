@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Github/ReturntoLight/ReturntoLight/Content/Level/Test.umap",
+				"C:/Github/ReturntoLight/ReturntoLight/Content/Character/Ch31_1001_Diffuse.uasset",
+				"C:/Github/ReturntoLight/ReturntoLight/Content/Character/Ch31_1001_Glossiness.uasset",
+				"C:/Github/ReturntoLight/ReturntoLight/Content/Character/Ch31_1001_Normal.uasset",
+				"C:/Github/ReturntoLight/ReturntoLight/Content/Character/Ch31_1001_Normal_ncl1_1.uasset",
+				"C:/Github/ReturntoLight/ReturntoLight/Content/Character/Ch31_1001_Specular.uasset",
+				"C:/Github/ReturntoLight/ReturntoLight/Content/Character/Ch31_1002_Diffuse.uasset",
+				"C:/Github/ReturntoLight/ReturntoLight/Content/Character/Ch31_1002_Diffuse_ncl1_1.uasset",
+				"C:/Github/ReturntoLight/ReturntoLight/Content/Character/Ch31_body.uasset",
+				"C:/Github/ReturntoLight/ReturntoLight/Content/Character/Ch31_hair.uasset",
+				"C:/Github/ReturntoLight/ReturntoLight/Content/Character/Leonardo.uasset",
+				"C:/Github/ReturntoLight/ReturntoLight/Content/Character/Leonardo_PhysicsAsset.uasset",
+				"C:/Github/ReturntoLight/ReturntoLight/Content/Character/Leonardo_Skeleton.uasset",
+				"C:/Github/ReturntoLight/ReturntoLight/Content/Animation/Receiving_Cpr.uasset",
+				"C:/Github/ReturntoLight/ReturntoLight/Content/VFX/P_Absorption.uasset"
+			]
+		}
+	]
+}
